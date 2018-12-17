@@ -1,2 +1,2 @@
 <?php 
-echo phpinfo();12asd ?>
+echo phpinfo();12asdasdas ?>
